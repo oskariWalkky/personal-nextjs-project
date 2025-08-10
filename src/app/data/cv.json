@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Mikael Turner",
+    "tagline": "Frontend Developer • Scrum Master",
+    "location": "Finland",
+    "email": "mikael@example.com",
+    "website": "https://example.com",
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/your-user" },
+      { "label": "LinkedIn", "url": "https://linkedin.com/in/your-user" }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Frontend",
+      "items": ["Angular", "TypeScript", "React", "Next.js", "HTML", "CSS"]
+    },
+    { "name": "Tools", "items": ["Git", "Jira", "Node.js", "CI/CD"] }
+  ],
+  "experience": [
+    {
+      "role": "Frontend Developer / Scrum Master",
+      "company": "CGI Suomi",
+      "location": "Helsinki, FI",
+      "start": "2018-01",
+      "end": "Present",
+      "highlights": [
+        "Led migration scripts for Jira issues, attachments, and comments (10k+ items).",
+        "Improved code quality and processes for an offshore team of 10+ developers."
+      ]
+    },
+    {
+      "role": "Frontend Developer",
+      "company": "LTC Otso",
+      "location": "Finland",
+      "start": "2016-01",
+      "end": "2017-12",
+      "highlights": [
+        "Built and maintained Angular apps with a focus on DX and performance."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Building Blocks",
+      "description": "React/Next.js component playground and utilities.",
+      "tech": ["Next.js", "TypeScript", "Tailwind"],
+      "link": "https://github.com/your-user/building-blocks"
+    }
+  ],
+  "education": [
+    {
+      "school": "Your University",
+      "degree": "B.Sc. Computer Science",
+      "start": "2012",
+      "end": "2016"
+    }
+  ]
+}
